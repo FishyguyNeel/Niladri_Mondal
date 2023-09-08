@@ -15,7 +15,7 @@ For my PhD, I study body size diversity in teleost fishes. Fishes being the most
 ![Cypriniformes_](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/537b1915-8ef9-43a0-b07a-52a9123c94c2)
 
 
-## Physiochemical Parameters and Fish Diversity
+## Physiochemical parameters water and fish diversity
 
 I have been studying the relationship between fish diversity and physio-chemical parameters along with their distribution pattern in West Bengal,India.
 This work is collaborated with [Deep Shankar Chini](https://scholar.google.co.in/citations?hl=en&user=75GmPXcAAAAJ)  from Vidyasagar University,India.
@@ -23,17 +23,24 @@ One of our study recently published which shows the water quality and fish diver
 [Seasonal Variability of Marine Fish Diversity in Relation to Water Quality of East Midnapore Coast of West Bengal, India](https://link.springer.com/article/10.1007/s12601-023-00107-0)
 ![Picture22](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/e8acd7b9-7535-4c84-9d92-4916154a55fd)
 
-## Computational Characterization of Proteins
+## Computational characterization of proteins
 
 For my Masters' thesis, I worked on the fish proteins and their functions using in silico modelling and various docking and simulation software. Most of the works from my masters' are published and available online.
-* [Computational characterization of epitopic region within the outer membrane protein candidate in Flavobacterium columnare for vaccine development](https://www.tandfonline.com/doi/10.1080/07391102.2019.1580222)
+* [Computational characterization of epitopic region within the outer membrane protein candidate in Flavobacterium columnare for vaccine development] 
+  (https://www.tandfonline.com/doi/10.1080/07391102.2019.1580222)
 * [Epitope-Based Vaccine Designing of Nocardia asteroides Targeting the Virulence Factor Mce-Family Protein by Immunoinformatics Approach](https://link.springer.com/article/10.1007/s10989-019-09921-4)
-*[Computer aided novel antigenic epitopes selection from the outer membrane protein sequences of Aeromonas hydrophila and its analyses](https://www.sciencedirect.com/science/article/pii/S1567134820301519)
+* [Computer aided novel antigenic epitopes selection from the outer membrane protein sequences of Aeromonas hydrophila and its analyses](https://www.sciencedirect.com/science/article/pii/S1567134820301519)
 
-## Computational Characterization of Proteins
+## Bird diversity
 
 During my Bachelors', I worked on the diversity pattern of the birds of Southern part of West Bengal along with making a checklist. The preprint is on bioxriv and we will soon put it for publication in journal.
 [Avifaunal Species diversity from Southern West part of West Bengal, India](https://www.biorxiv.org/content/10.1101/2023.06.30.547191v1.abstract)
+
+## Collaborators
+[Hugo F. Gante](https://bio.kuleuven.be/faculty/00146936)
+[Ingrid Bunholi](https://ingridbunholi.weebly.com/)
+[Deep Sankar Chini](https://www.researchgate.net/profile/Deep-Chini)
+[Patrice Delagnon Assou](https://www.linkedin.com/in/patrice-delagnon-assou-733256b2/?originalSubdomain=tg)
 
 
 ## Affiliations
