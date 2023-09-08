@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /markdownnew/
 title: "Primary Research Areas"
 author_profile: true
 redirect_from: 
