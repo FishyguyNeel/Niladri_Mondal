@@ -2,9 +2,7 @@
 permalink: /markdownnew/
 title: "Primary Research Areas"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdownnew.html
+
 ---
 
 My primary research area focuses on ecology and evolutionary pattern of fish. Outside of my PhD topics, I enjoy working on other projects for conservation and ecosystem management practices.
