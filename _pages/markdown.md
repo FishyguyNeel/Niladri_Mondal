@@ -9,14 +9,17 @@ redirect_from:
 
 ## Diversity of Fishes
 
-For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis.
+For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal (around 35,300 described species) in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis.
 
 ![Cypriniformes_](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/537b1915-8ef9-43a0-b07a-52a9123c94c2)
 
 
 ## Physiochemical Parameters and Fish Diversity
 
-I have been studying the relationship between fish diversity and physio-chemical parameters 
+I have been studying the relationship between fish diversity and physio-chemical parameters along with their distribution pattern in West Bengal,India.
+This work is collaborated with Deep Shankar Chini  (https://scholar.google.co.in/citations?hl=en&user=75GmPXcAAAAJ&view_op=list_works&sortby=pubdate) from Vidyasagar University,India.
+![Picture22](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/e8acd7b9-7535-4c84-9d92-4916154a55fd)
+
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
