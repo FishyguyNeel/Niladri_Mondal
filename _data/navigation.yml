@@ -5,13 +5,13 @@ main:
     url: /publications/CV_Niladri_Mondal_08_09.pdf
     
   - title: "Research"
-    url: /markdown/
+    url: /markdown
 
  
   - title: "Publications"
     url: "https://scholar.google.co.in/citations?user=7cuKOkMAAAAJ&hl=en&oi=ao"
    
   -title: "Teaching"
-   url: /_pages/teaching.html
+   url: /teaching/
     
  
