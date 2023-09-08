@@ -8,11 +8,7 @@ main:
     url: "https://scholar.google.co.in/citations?user=7cuKOkMAAAAJ&hl=en&oi=ao"
 
   - title: "Teaching"
-    url: /teaching/    
-
-
-  - title: "Research"
-     url: /portfolio/ Research
+    url: /teaching/  
     
-  - title: "Guide"
+  - title: "Research"
     url: /markdown/
