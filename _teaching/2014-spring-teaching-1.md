@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /markdown/
+title: "Teaching"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
+## Practicum of diversity of fishes and taxonomy (2022-)
+I teach the lab sessions of the Biology of Fishes course for the Master's student at [Ghent University](https://www.ugent.be/en)
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Intro to Biology for Bio-Majors(Bio-101L, Bio102L) (2019-2021)
 
-Heading 1
-======
+I taught the lab sessions for the introductory Biology courses at Undergraduate Level at [Indiana State university](https://www.indstate.edu/). 
 
-Heading 2
-======
+## Intro to Biology for Non Bio-Majors(Bio-112L)(2019-2021)
+I taught the undergraduate level lab sessions for the Non Bio-Majors at [Indiana State university](https://www.indstate.edu/). 
 
-Heading 3
-======
+## Environmental Zoology(2019-2019)
+I taught the Environmental Zoology course for the Undergraduate students at [Raja N.L Khan's Women's College](https://rnlkwc.ac.in/)
+
+
