@@ -36,10 +36,13 @@ During my Bachelors', I worked on the diversity pattern of the birds of Southern
 [Avifaunal Species diversity from Southern West part of West Bengal, India](https://www.biorxiv.org/content/10.1101/2023.06.30.547191v1.abstract)
 
 ## Collaborators
-*[Hugo F. Gante](https://bio.kuleuven.be/faculty/00146936),KU Leuven & Africa Museum,Belgium
-*[Ingrid Bunholi](https://ingridbunholi.weebly.com/),UT Austin, USA
-*[Deep Sankar Chini](https://www.researchgate.net/profile/Deep-Chini),Vidyasagar University,India
-*[Patrice Delagnon Assou](https://www.linkedin.com/in/patrice-delagnon-assou-733256b2/?originalSubdomain=tg),Université de Lomé,Togo
+*[Hugo F. Gante](https://bio.kuleuven.be/faculty/00146936) ,KU Leuven & Africa Museum,Belgium
+
+*[Ingrid Bunholi](https://ingridbunholi.weebly.com/) ,UT Austin, USA
+
+*[Deep Sankar Chini](https://www.researchgate.net/profile/Deep-Chini) ,Vidyasagar University,India
+
+*[Patrice Delagnon Assou](https://www.linkedin.com/in/patrice-delagnon-assou-733256b2/?originalSubdomain=tg) ,Université de Lomé,Togo
 
 
 ## Affiliations
