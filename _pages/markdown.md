@@ -9,7 +9,7 @@ redirect_from:
 
 ## Diversity of Fishes
 
-For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal (around 35,300 described species) in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis.
+For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal (around 35,300 described species) in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis. 
 
 ![Cypriniformes_](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/537b1915-8ef9-43a0-b07a-52a9123c94c2)
 
@@ -19,6 +19,10 @@ For my PhD, I study body size diversity in teleost fishes. Fishes being the most
 I have been studying the relationship between fish diversity and physio-chemical parameters along with their distribution pattern in West Bengal,India.
 This work is collaborated with [Deep Shankar Chini](https://scholar.google.co.in/citations?hl=en&user=75GmPXcAAAAJ)  from Vidyasagar University,India.
 ![Picture22](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/e8acd7b9-7535-4c84-9d92-4916154a55fd)
+## Computational Characterization of Proteins
+
+For my Masters' thesis, I worked on the fish proteins and their functions using in silico modelling and various docking and simulation software. Most of the works from my masters' are published and available online.
+* [Computational characterization of epitopic region within the outer membrane protein candidate in Flavobacterium columnare for vaccine development] (https://www.tandfonline.com/doi/10.1080/07391102.2019.1580222)
 
 
 ## Resources
