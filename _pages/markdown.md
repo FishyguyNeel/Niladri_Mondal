@@ -17,7 +17,7 @@ For my PhD, I study body size diversity in teleost fishes. Fishes being the most
 ## Physiochemical Parameters and Fish Diversity
 
 I have been studying the relationship between fish diversity and physio-chemical parameters along with their distribution pattern in West Bengal,India.
-This work is collaborated with Deep Shankar Chini  (https://scholar.google.co.in/citations?hl=en&user=75GmPXcAAAAJ&view_op=list_works&sortby=pubdate) from Vidyasagar University,India.
+This work is collaborated with [Deep Shankar Chini] (https://www.researchgate.net/profile/Deep-Chini) from Vidyasagar University,India.
 ![Picture22](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/e8acd7b9-7535-4c84-9d92-4916154a55fd)
 
 
