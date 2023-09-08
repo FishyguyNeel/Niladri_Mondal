@@ -26,8 +26,7 @@ One of our study recently published which shows the water quality and fish diver
 ## Computational characterization of proteins
 
 For my Masters' thesis, I worked on the fish proteins and their functions using in silico modelling and various docking and simulation software. Most of the works from my masters' are published and available online.
-* [Computational characterization of epitopic region within the outer membrane protein candidate in Flavobacterium columnare for vaccine development] 
-  (https://www.tandfonline.com/doi/10.1080/07391102.2019.1580222)
+* [Computational characterization of epitopic region within the outer membrane protein candidate in Flavobacterium columnare for vaccine development](https://www.tandfonline.com/doi/10.1080/07391102.2019.1580222)
 * [Epitope-Based Vaccine Designing of Nocardia asteroides Targeting the Virulence Factor Mce-Family Protein by Immunoinformatics Approach](https://link.springer.com/article/10.1007/s10989-019-09921-4)
 * [Computer aided novel antigenic epitopes selection from the outer membrane protein sequences of Aeromonas hydrophila and its analyses](https://www.sciencedirect.com/science/article/pii/S1567134820301519)
 
