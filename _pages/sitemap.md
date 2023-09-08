@@ -5,33 +5,21 @@ permalink: /sitemap/
 author_profile: true
 ---
 
+
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
-
-<h2>Pages</h2>
-{% for post in site.pages %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+## Practicum of diversity of fishes and taxonomy (2022-)
+I teach the lab sessions of the Biology of Fishes course for the Master's student at Ghent University
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+## Intro to Biology for Bio-Majors(Bio-101L, Bio102L) (2019-2021)
 
-{% capture written_label %}'None'{% endcapture %}
+I taught the lab sessions for the introductory Biology courses at Undergraduate Level at Indiana State university
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+## Intro to Biology for Non Bio-Majors(Bio-112L)(2019-2021)
+I taught the undergraduate level lab sessions for the Non Bio-Majors at Indiana State university
+
+## Environmental Zoology(2019-2019)
+I taught the Environmental Zoology course for the Undergraduate students at [Raja N.L Khan's Women's College
