@@ -38,8 +38,7 @@ During my Bachelors', I worked on the diversity pattern of the birds of Southern
 
 ## Affiliations
 
-![2560px-KU_Leuven_logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/b5d63f59-f38c-41d6-84e0-f6481d0c09b2)
-![download](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/dcfd9d1f-a3e3-4d09-a099-030e2e1fe842)![Vidyasagar_University_Logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/074cb144-a25f-4cb6-9518-159a5c639151)![Midnapore_College](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/8bb53e06-a16a-433c-aad3-c1edfeb6051e)
+![2560px-KU_Leuven_logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/b5d63f59-f38c-41d6-84e0-f6481d0c09b2)![download](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/dcfd9d1f-a3e3-4d09-a099-030e2e1fe842)![Vidyasagar_University_Logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/074cb144-a25f-4cb6-9518-159a5c639151)![Midnapore_College](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/8bb53e06-a16a-433c-aad3-c1edfeb6051e)
 
 
 
