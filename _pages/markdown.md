@@ -11,7 +11,8 @@ redirect_from:
 
 For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis.
 
- (/_images/Cypriniformes_.jpeg)
+![Cypriniformes_](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/537b1915-8ef9-43a0-b07a-52a9123c94c2)
+
 
 ## Physiochemical Parameters and Fish Diversity
 
