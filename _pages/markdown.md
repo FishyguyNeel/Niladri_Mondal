@@ -36,9 +36,13 @@ During my Bachelors', I worked on the diversity pattern of the birds of Southern
 [Avifaunal Species diversity from Southern West part of West Bengal, India](https://www.biorxiv.org/content/10.1101/2023.06.30.547191v1.abstract)
 
 
-## Affiliations
+## Affiliations![download](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/235a6ab1-2e01-4371-86da-73a6b7166098)
 
-![2560px-KU_Leuven_logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/b5d63f59-f38c-41d6-84e0-f6481d0c09b2)![download](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/dcfd9d1f-a3e3-4d09-a099-030e2e1fe842)![Vidyasagar_University_Logo svg](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/074cb144-a25f-4cb6-9518-159a5c639151)![Midnapore_College](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/8bb53e06-a16a-433c-aad3-c1edfeb6051e)
+![ku-leuven-logo-organization-brand-product-png-favpng-xtX0NT38fTgrTkJFAT72egnMe](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/5d758c33-bc28-49ac-9ef6-7455d737387f)
+![Uploading download.png…]()![unnamed](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/7623c770-079a-48ea-8f4c-0c41c34d4e5f)![Midnapore_College](https://github.com/FishyguyNeel/Niladri_Mondal/assets/84254577/798b0e90-8624-4383-8cf6-b1fc87e46c39)
+
+
+
 
 
 
