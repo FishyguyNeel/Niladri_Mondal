@@ -1,35 +1,21 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Primary Research Areas"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Diversity of Fishes
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+For my PhD, I study body size diversity in teleost fishes. Fishes being the most diverse vertebrate animal in the world; they are very much suitable to work on the body size patterning. I use comperative phylogeny, morphology and evolutionary modelling to test different hypothesis.
 
-## Tips and hints
+ images/Cypriniformes_bodysize_phylo.tiff
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+## Physiochemical Parameters and Fish Diversity
+
+
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
